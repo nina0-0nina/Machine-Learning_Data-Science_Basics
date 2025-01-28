@@ -16,10 +16,10 @@ Este repositório está organizado da seguinte forma:
 
 - ˚.🎀༘⋆ **Linguagem**: Python
 - ˚.🎀༘⋆ **Bibliotecas**:
-  - ˚.🎀༘⋆ Pandas e NumPy para manipulação de dados
-  - ˚.🎀༘⋆ Matplotlib e Seaborn para visualização
-  - ˚.🎀༘⋆ Scikit-learn para aprendizado de máquina
-  - ˚.🎀༘⋆ TensorFlow e PyTorch para deep learning
+  - 🦋⃝ Pandas e NumPy para manipulação de dados
+  - 🦋⃝ Matplotlib e Seaborn para visualização
+  - 🦋⃝ Scikit-learn para aprendizado de máquina
+  - 🦋⃝ TensorFlow e PyTorch para deep learning
 
 ## ࣪ ִֶָ☾. Como Usar
 
