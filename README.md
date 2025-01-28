@@ -1,6 +1,6 @@
 # Meu Aprendizado em Machine Learning e Data Science&#x20;
 
-Bem-vindo(a) ao meu repositório de **aprendizado** em **Machine Learning** e **Data Science**! 🚀 Aqui estão armazenados meus estudos, anotações, experimentos e projetos práticos para aprimorar minhas habilidades nessas áreas.
+Bem-vindo(a) ao meu repositório de **aprendizado** em **Machine Learning** e **Data Science**! Aqui estão armazenados meus estudos, anotações, experimentos e projetos práticos para aprimorar minhas habilidades nessas áreas.
 
 ## ࣪ ִֶָ☾. Conteúdo do Repositório
 
